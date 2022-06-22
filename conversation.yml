@@ -1,0 +1,47 @@
+categories:
+- conversation
+conversations:
+- - hello
+  - hi..welcome to the coffee hub!
+- - who made you?
+  - Harsh(K16156) & Punit(17099) made me
+- - oh nice
+  - thanks...how can i help you?
+- - how many types of coffee you have?
+  - yes sir
+    we have
+    Americano
+    Caffe Latte
+    Cafe Mocha
+    Cappccino
+    Espresso
+    Indian FilterCoffee
+    Instant Coffee
+    Irish Cappccino
+    Hazelnut Cappccino
+    what would you like to have?
+- - tell me the price?
+  - Americano = 150rs
+    Caffe Latte = 130rs
+    Cafe Mocha = 140rs
+    Cappccino = 110rs
+    Espresso = 120rs
+    Indian FilterCoffee = 100rs
+    Instant Coffee = 70rs
+    Irish Cappccino = 200rs
+    Hazelnut Cappccino = 170rs 
+- - which one is famous?
+  - Irish Cappccino is very famous
+    would you like to have it?
+- - i will take one Americano and one Cafe Mocha
+  - sir thanks for your order
+    you have ordered one Americano and one Cafe Mocha
+    please wait for sometime
+- - how much time it will take?
+  - sir just one minute
+    take your order sir!
+    Enjoy it!
+- - thank you
+  - welcome sir
+- - bye
+  - bye sir...take care!
